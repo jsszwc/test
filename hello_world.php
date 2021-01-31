@@ -7,4 +7,5 @@
 	echo "test-4";
 	echo "test-5";
 	echo "test-6";
+	echo "test-7";
 ?>
